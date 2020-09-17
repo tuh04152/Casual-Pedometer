@@ -14,5 +14,6 @@ the beta Spotify SDK. Finally, I will change the UI from only displaying a GPS m
 the map will be called by the user manually, instead of always being present. 
 
 This project can be found here:
+https://github.com/tuh04152/Casual-Pedometer/
 
 To run and test this project, one will need *Android Studio* with an emulated Android device of SDK 29 or later. Instructions on how to do so, can be found online if this is unclear.
