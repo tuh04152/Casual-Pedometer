@@ -6,6 +6,8 @@ This project is an Android phone application that records the user's movements t
 how many steps the user walked, how many calories they burned on their walk and record their route. In addition, this app will allow for Spotify playlist integration and 
 playback inside the application itself, allowing the app to also function as a music player.
 
+![UML Image](Pictures/Pedometer_Project_Proposal.png)
+
 ## Project Relevance
 This project will involve using Github to track the evolution of this app from a simple GPS tracker to a fully-featued useful application. I will need to test 
 the functionality using Android Studio and build on top of the work already given by the original code. In order to communicate both the walking and music playiing features to the user, I will also need to develop a well-designed GUI. 
